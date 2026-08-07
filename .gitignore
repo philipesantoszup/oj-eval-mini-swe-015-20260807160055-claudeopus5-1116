@@ -1,0 +1,10 @@
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+code
+*.db
+*.o
+gen.py
+gen2.py
+ref.py
